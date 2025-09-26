@@ -21,7 +21,7 @@ Proje sürecinde gerçekleştirilen temel adımlar:
 # Metrikler  
 
 Model eğitimi sonucunda elde edilen performans metrikleri:  
-- **Accuracy (Doğruluk):** %86 civarında  
+- **Accuracy (Doğruluk):** %87 civarında  
 - **Confusion Matrix** → sınıflar arası karışıklıklar analiz edildi  
 - **Classification Report** → precision, recall ve f1-score değerleri raporlandı  
 - **Epoch bazlı Accuracy/Loss grafikler** → overfitting/underfitting yorumlandı  
